@@ -19,8 +19,9 @@ npm run start
 ### Services
 
 this is a list of services:
-[x] order
-[ ] user
+
+-   [x] order
+-   [ ] user
 
 #### Setup services consumers
 
